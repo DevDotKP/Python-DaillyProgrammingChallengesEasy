@@ -1,4 +1,4 @@
-# Python-DaillyProgrammingChallengesEasy
+# Python-DailyProgrammingChallengesEasy
 Programs from reddit.com/r/dailyprogramming
 
 
